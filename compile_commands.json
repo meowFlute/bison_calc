@@ -1,0 +1,30 @@
+[
+ {
+  "directory": "/home/scott/bison_calc",
+  "arguments": [
+   "gcc",
+   "-I./src",
+   "-Wall",
+   "-Wextra",
+   "-c",
+   "src/bison_calc.c",
+   "-o",
+   "build/bison_calc.o"
+  ],
+  "file": "src/bison_calc.c"
+ },
+ {
+  "directory": "/home/scott/bison_calc",
+  "arguments": [
+   "gcc",
+   "-I./src",
+   "-Wall",
+   "-Wextra",
+   "-c",
+   "src/main.c",
+   "-o",
+   "build/main.o"
+  ],
+  "file": "src/main.c"
+ }
+]

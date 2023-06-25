@@ -6,6 +6,8 @@
 *.ko
 *.obj
 *.elf
+bison_calc
+build/*
 
 # Linker output
 *.ilk
